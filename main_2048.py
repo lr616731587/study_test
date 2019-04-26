@@ -26,9 +26,7 @@
             获取用户输入，调用核心类对象的移动方法
 """
 
-# 2020 --> 2200
-# 0220 --> 2200
-# from projects_2048.View2 import View
+
 from projects_2048.View import View
 
 
