@@ -27,3 +27,10 @@ class Location:
     @c_index.setter
     def c_index(self, value):
         self.__c_index = value
+
+
+class Direction:
+    up = 0
+    down = 1
+    left = 2
+    right = 3
